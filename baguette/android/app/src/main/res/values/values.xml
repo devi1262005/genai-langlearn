@@ -1,7 +1,7 @@
 <resources>
     <string name="firebase_database_url" translatable="false">https://verily-app-default-rtdb.asia-southeast1.firebasedatabase.app</string>
     <string name="gcm_defaultSenderId" translatable="false">1020180429209</string>
-    <string name="google_api_key" translatable="false">AIzaSyAwmbLuh2qG5mvit3TxKBnPly-eURxhkfw</string>
+    <string name="google_api_key" translatable="false"></string>
     <string name="google_app_id" translatable="false">1:1020180429209:android:b9082d4961ac8e63bb7b08</string>
     <string name="project_id" translatable="false">verily-app</string>
 </resources>
